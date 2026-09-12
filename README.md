@@ -411,7 +411,7 @@ This provides a practical comparison between manually trained recurrent models, 
 
 Feel free to connect with me regarding this project, NLP, Deep Learning, or Data Science.
 
-* **GitHub:** [@your-username](https://github.com/saravanansokkalingam1997-gif)
+* **GitHub:** [https://github.com/saravanansokkalingam1997-gif]
 * **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
 
 ---
